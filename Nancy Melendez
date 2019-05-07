@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <header>
+      <div class="nav__container"> 
+      <h1 class="nav__brand">Nancy Melendez-Arriola</h1>
+      <div class="nav__menu">
+      <ul>
+        <li><a href ="a">About Me</a></li>
+        <li><a href ="a">Skills</a></li>
+        <li><a href ="a">Projects</a></li>
+ <h1>Hi! I'm <span class="bold">Nancy Melendez-Arriola</span>, a future web developer from Peachtree Corners GA. </h1>
+            <h2>One of the things that I enjoy is creating new entities. </h2>
+         <section class="about">
+            <h2>About</h2>
+            <p>I'm an HTML and CSS web develoer that is inspired to have accesssabiltiy be known to all people. I'm a English as a Second Language teacher by trade looking to trasistion into web developmenet. With my skills of analyzation of data and learing three langauges, I know that web development is ideal for me. 
+            </p>
+            <p> I have extensive experience in conceptualizing, planning, and creating products
+                solely with the end user in mind - from email marketing campaigns and web applications, to
+                blog posts and goal-based curriculum. I also love to learn, and share that learning with others.
+            </p>
+            <p>
+                I'm currently enrolled in Develop Camp, a coding and professional development program run by Moms Can:
+                Code.
+                Nancy knows  HTML, CSS, Javascript5 and Ruby on Rails. Nancy holds a Criminal Justice (BA) from Buffalo State College,  Human Services (MA) and TESOL Education (MA) from Boricua College.
+<section class="code">
+  <h2>Skills</h2>
+  
+   <p><a href="https://nmelen.github.io/The-mOm-Project-HTML-Newsletter/"> "The Mom Project" Email
+                    Newsletter</a> <span class="ital">HTML, CSS</span> <br>
+                <a href="https://nmelen.github.io/The-mOm-Project-HTML-Newsletter/">
+                    <img src="https://nmelen.github.io/The-mOm-Project-HTML-Newsletter/"
+                        
+                </a></p>                 
+  </section>
+            </p>
+        </section> 
+        <section class="write">
+            <h2>Blogs</h2>
+          <p><a href="https://www.wix.com/dashboard/9b815f53-6bd5-47d9-b5e3-2e7189511f5c/app/61f33d50-3002-4882-ae86-d319c1a249ab?referralInfo=sidebar/"> 
+                    Newsletter</a> 
+                <a 
+            <p>"So what the H E Double Hockey Sticks is coding.
+"
+            </p>
+        </section>
+      </ul>
+      </div>
+        
+      </div>
+    </header>
+    <main></main>
+  </body>
+  <footer></footer>
+</html>
